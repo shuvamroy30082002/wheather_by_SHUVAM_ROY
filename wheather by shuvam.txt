@@ -1,0 +1,5 @@
+CITY = kosamba  
+temprature =32.84000000000003  
+wherather = broken clouds  
+HUMIDITY = 44  
+wind speed = 5.06
